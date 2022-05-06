@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ekomzy-profile/static/css/main.07d99ba4.css",
+    "main.js": "/ekomzy-profile/static/js/main.e60bb239.js",
+    "static/media/Rectangle 90.png": "/ekomzy-profile/static/media/Rectangle 90.9a5a94a66b5056467004.png",
+    "index.html": "/ekomzy-profile/index.html",
+    "main.07d99ba4.css.map": "/ekomzy-profile/static/css/main.07d99ba4.css.map",
+    "main.e60bb239.js.map": "/ekomzy-profile/static/js/main.e60bb239.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07d99ba4.css",
+    "static/js/main.e60bb239.js"
+  ]
+}
